@@ -1,7 +1,5 @@
 /*
 * Author: Lukas Bozinov
-* Student Number: 251284757
-* Instructor: Mr. Beldman
 * Description: This program holds the functions to perform operations on a node in the linkedlist dedicated to actors.
 */
 
